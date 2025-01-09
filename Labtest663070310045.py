@@ -1,1 +1,6 @@
 print ("Hello world")
+print ("Ramet Suppaso")
+print ("Leo")
+print ("จบการศึกษาชั้นมัธยมศึกษาปีที่ 6")
+print ("จากโรงเรียนอากาศอำนวยศึกษา")
+print ("จังหวัดสกลนคร")
